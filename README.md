@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #fff;">👋 Hi there! I'm DAM</h2>
-<p align="center" style="font-family: 'Arial', sans-serif; color: #fff; font-size: 1.1em; line-height: 1.6;">
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #fff;">👋 Hi there! I'm DAM</h2>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #fff; line-height: 1.6;">
     I'm a passionate developer who loves solving problems and building cool things.  
-    I specialize in web development, especially using technologies like Java and JavaScript.  
+    I specialize in <strong>web development</strong>, especially using technologies like <strong>Java</strong> and <strong>JavaScript</strong>.  
     I'm always curious and learning new things, whether it's a new framework, tool, or development trend.  
-    Feel free to explore my repositories, and let's collaborate on exciting projects! 
-</p>
+    Feel free to explore my repositories, and let's collaborate on exciting projects!
+</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonDam18%2Fhit-counter&count_bg=%23232D1C&title_bg=%23A89999&icon=&icon_color=%23C9A8A8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
